@@ -1,12 +1,7 @@
 using Assets.Scripts;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using UnityEditor.Experimental.RestService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 using static Assets.Scripts.MainScreenUI;
 
